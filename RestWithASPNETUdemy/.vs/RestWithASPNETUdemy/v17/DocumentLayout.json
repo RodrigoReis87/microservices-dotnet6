@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos udemy\\arquitetura de microsservi\u00E7os do 0 com asp.net, .net 6 e c#\\microservices-dotnet6\\restwithaspnetudemy\\restwithaspnetudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos udemy\\arquitetura de microsservi\u00E7os do 0 com asp.net, .net 6 e c#\\microservices-dotnet6\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos udemy\\arquitetura de microsservi\u00E7os do 0 com asp.net, .net 6 e c#\\microservices-dotnet6\\restwithaspnetudemy\\restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos udemy\\arquitetura de microsservi\u00E7os do 0 com asp.net, .net 6 e c#\\microservices-dotnet6\\restwithaspnetudemy\\restwithaspnetudemy\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos udemy\\arquitetura de microsservi\u00E7os do 0 com asp.net, .net 6 e c#\\microservices-dotnet6\\restwithaspnetudemy\\restwithaspnetudemy\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos udemy\\arquitetura de microsservi\u00E7os do 0 com asp.net, .net 6 e c#\\microservices-dotnet6\\restwithaspnetudemy\\restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA746709-CA5D-4541-AE9F-5D5BE0F84BBE}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T13:24:17.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Program.cs",
+              "ToolTip": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Program.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:04:48.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:57:12.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "ToolTip": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:54:57.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ToolTip": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:52:27.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\Cursos Udemy\\Arquitetura de Microsservi\u00E7os do 0 com ASP.NET, .NET 6 e C#\\microservices-dotnet6\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:52:06.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
